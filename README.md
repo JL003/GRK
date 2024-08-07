@@ -31,3 +31,7 @@ Android 11或更高版本的设备支持音频转发，默认情况下启用：
 使用此功能时手机摄像头请勿占用
 
 该功能仅支持Android 12或更高版本的设备
+
+百度网盘下载地址：
+链接：https://pan.baidu.com/s/1x4FFDnIwi2v88klWA-7NYA?pwd=b52q
+提取码：b52q
